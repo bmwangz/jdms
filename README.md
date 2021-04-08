@@ -27,6 +27,13 @@ yarn run electron:build
 
 electron打包配置还在学习中，所以目前**只支持window版本的安装**
 
+### 参数取法
+第一步：进入京东结算页面
+
+第二步：f12打开Sources
+
+第三步：console，填入_JdTdudfp回车
+
 ### 软件截图
 
 ![jdms](https://github.com/Yx1aoq1/jdms/blob/master/img/jdms.gif)
